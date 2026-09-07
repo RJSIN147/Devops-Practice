@@ -1,1 +1,1 @@
-Git fundamentals
+Git fundamentals.
